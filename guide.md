@@ -5,7 +5,7 @@ This plugin allows users to enable the Hydro Raindrop MFA to add an extra layer 
 
 ## Requirements
 * For the MFA to work you need to [register for an account](https://www.hydrogenplatform.com) on the Hydrogen platform.
-* IMPORTANT: SSL (HTTPS) MUST be enabled for MFA to work.
+* SSL (HTTPS) MUST be enabled for MFA to work.
 * PHP 7.0 or higher is required.
 
 ## Installation and Configuration
