@@ -4,16 +4,16 @@
 This plugin allows users to enable the Hydro Raindrop MFA to add an extra layer of authentication security.
 
 ## Requirements
-* For the MFA to work you need to register for an account at https://www.hydrogenplatform.com.
+* For the MFA to work you need to register for an account on https://www.hydrogenplatform.com.
 * IMPORTANT: SSL (HTTPS) MUST be enabled for MFA to work.
 * PHP 7.0 or higher is required.
 
 ## Installation and Configuration
 
-* Download, install and activate "WP Hydro Raindrop" in WordPress [here](https://wordpress.org/plugins/wp-hydro-raindrop/)
+* Download, install and activate `WP Hydro Raindrop` in your WordPress installation. Download the plugin [here](https://wordpress.org/plugins/wp-hydro-raindrop/)
 * Under "settings" in the admin bar navigate to `Hydro Raindrop MFA`
 * Open up a new tab and navigate [here](https://www.hydrogenplatform.com). Create an account, login.
-* Generate API credentials by reading the agreement and signing at the bottom. You are now provided a "Client ID" and "Client Secret".
+* Generate API credentials by reading the agreement and signing at the bottom. You are now provided a `Client ID` and `Client Secret`.
 * Paste the `Client ID` and `Client Secret` into the Hydro Raindrop MFA settings fields in WordPress.
 * On the Hydrogen dashboard scroll down to the table below on the `Hydro` line and click `+ Create App` or click [here](https://www.hydrogenplatform.com/account/hydro-app)
 * On the Hydro App page click `+ Add New` and name the application.
