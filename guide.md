@@ -10,12 +10,12 @@ This plugin allows users to enable the Hydro Raindrop MFA to add an extra layer 
 
 ## Installation and Configuration
 
-* Download, install and activate `WP Hydro Raindrop` in your WordPress installation. Download the plugin [here](https://wordpress.org/plugins/wp-hydro-raindrop/)
+* Download, install and activate `WP Hydro Raindrop` in your WordPress installation. Download the plugin [here](https://wordpress.org/plugins/wp-hydro-raindrop/).
 * Under "settings" in the admin bar navigate to `Hydro Raindrop MFA`
 * Open up a new tab and navigate [here](https://www.hydrogenplatform.com). Create an account, login.
 * Generate API credentials by reading the agreement and signing at the bottom. You are now provided a `Client ID` and `Client Secret`.
 * Paste the `Client ID` and `Client Secret` into the Hydro Raindrop MFA settings fields in WordPress.
-* On the Hydrogen dashboard scroll down to the table below on the `Hydro` line and click `+ Create App` or click [here](https://www.hydrogenplatform.com/account/hydro-app)
+* On the Hydrogen dashboard scroll down to the table below on the `Hydro` line and click `+ Create App` or click [here](https://www.hydrogenplatform.com/account/hydro-app).
 * On the Hydro App page click `+ Add New` and name the application.
 * You have now created your sandbox app and are provided an application ID. Paste that ID the Hydro Raindrop WordPress Config under `Applicaiton ID`.
 * In set the dropdown to `sandbox`. Don't forget to set the dropdown to production once ready to move to production.
