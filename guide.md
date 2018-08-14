@@ -20,7 +20,7 @@ This plugin allows users to enable the Hydro Raindrop MFA to add an extra layer 
 * You have now created your sandbox app and are provided an application ID. Paste that ID the Hydro Raindrop WordPress Config under `Applicaiton ID`.
 * In set the dropdown to `sandbox`. Don't forget to set the dropdown to production once ready to move to production.
 
-NOTE: All applications will remain in sandbox mode until approved. Please send us a support message to review and approve it [here](https://www.hydrogenplatform.com/account/support).
+NOTE: All applications will remain in sandbox mode until approved. Please send Hydrogen a support message to review and approve it [here](https://www.hydrogenplatform.com/account/support).
 
 ## Further Reading
 * [Raindrop documentation](https://www.hydrogenplatform.com/docs/hydro/v1/#Raindrop)
