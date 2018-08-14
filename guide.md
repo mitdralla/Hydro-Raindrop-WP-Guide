@@ -1,7 +1,7 @@
 # Hydro Raindrop WordPress Plugin
 
 ## About WP Hydro Raindrop
-This plugin allows users to enable the Hydro Raindrop MFA to add an extra layer of authentication security.
+This plugin allows users to enable the Hydro Raindrop MFA to add an extra layer of authentication security on a WordPress website.
 
 ## Requirements
 * For the MFA to work you need to [register for an account](https://www.hydrogenplatform.com).
