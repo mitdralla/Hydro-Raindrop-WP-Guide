@@ -10,7 +10,7 @@ This plugin allows users to enable the Hydro Raindrop MFA to add an extra layer 
 
 ## Installation and Configuration
 
-* Download, install and activate `WP Hydro Raindrop` in your WordPress installation. Download the plugin [here](https://wordpress.org/plugins/wp-hydro-raindrop/).
+* [Download](https://wordpress.org/plugins/wp-hydro-raindrop/), install and activate `WP Hydro Raindrop` in your WordPress installation.
 * Under `settings` in the admin bar navigate to `Hydro Raindrop MFA`
 * Open up a new tab and navigate [here](https://www.hydrogenplatform.com). Create an account, login.
 * Generate API credentials by reading the agreement and signing at the bottom. You are now provided a `Client ID` and `Client Secret`.
